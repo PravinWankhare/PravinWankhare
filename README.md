@@ -1,16 +1,22 @@
-## Hi there 👋
+# Pravin Wankhare
 
-<!--
-**PravinWankhare/PravinWankhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Pravin Wankhare, a B.Tech CSE (Data Science) student with a 9.65 CGPA. I’m passionate about learning new technologies and currently focusing on web development using the MERN stack and improving my DSA skills in C++. I’m always eager to learn, grow, and build projects that make an impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** HTML, CSS, JavaScript, C++
+- **Database:** MySQL
+- **Web Development:** MERN Stack
+
+## Projects
+
+### Simon Game
+A classic memory game built using HTML, CSS, and JavaScript.  
+Players repeat increasingly complex sequences of lights and sounds—test your memory and reflexes!
+
+---
+
+## Social Links
+
+- [LinkedIn](https://www.linkedin.com/in/pravinwankhare/)
